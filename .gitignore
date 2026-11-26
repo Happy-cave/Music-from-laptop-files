@@ -1,0 +1,10 @@
+# per-user data (your folders and playlists)
+config.json
+playlists.json
+*.tmp
+
+# the app window's browser profile
+.app-window/
+
+__pycache__/
+*.pyc
